@@ -18,8 +18,8 @@ This tool could come in handy for:
 * Anyone using Kaplay.js, Phaser, Unity 2D, Godot, or custom engines
 
 ---
-**✨ FEATURES**
-**🧩 1. Sprite Sheet Builder**
+## **✨ FEATURES**
+### **🧩 1. Sprite Sheet Builder**
 
 * Combine multiple PNG frames into a clean sprite sheet.
 
@@ -31,7 +31,7 @@ This tool could come in handy for:
 
 * Auto-arranges everything
 
-## **🎨 2. Recolor a Single Sprite Sheet**
+### **🎨 2. Recolor a Single Sprite Sheet**
 
 Swap a fixed grayscale palette with your custom colors.
 Useful for:
@@ -44,7 +44,7 @@ Useful for:
 
 * Stylized palettes
 
-## **🗂️ 3. Batch Recolor Mode**
+### **🗂️ 3. Batch Recolor Mode**
 
 Recolor all PNGs in a folder at once.
 Great for mass-producing palette swaps with zero effort.
